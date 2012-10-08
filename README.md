@@ -1,4 +1,5 @@
 arrow-notation
 ==============
 
-Knuth's arrow-notation
+Implementations of Knuth's arrow-notation.
+
